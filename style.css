@@ -8,7 +8,7 @@ body {
 }
 
 a,
-button:active {
+button {
     transition: all .3s ease-in-out;
     outline: none!important;
 }
@@ -822,7 +822,7 @@ h4 {
 }
 
 .bg-presentation {
-    background-image: url("img/image-de-presentation-bis.jpg");
+    background-image: url("img/image-de-presentation.bmp");
 }
 
 @media only screen and (max-width: 1024px) {
