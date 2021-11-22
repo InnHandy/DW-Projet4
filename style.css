@@ -741,6 +741,7 @@ h4 {
 
 .portfolio-thumb {
     margin-bottom: 24px;
+    width: 100%;
 }
 
 .portfolio-row {
@@ -771,15 +772,19 @@ h4 {
 }
 
 .bgc-atomic-tangerine {
-    background-color: #F3976C;
+    background-color: #772C09;
 }
 
 .tc-white {
+    color: #e6f39c!important;
+}
+
+.tcbis-white {
     color: white!important;
 }
 
 .btn-atomic-tangerine {
-    background: #F3976C;
+    background: #772C09;
     color: #FFFFFF!important;
 }
 
@@ -1040,3 +1045,8 @@ h4 {
         text-align: center;
     }
 }
+
+.couleur { color: white;
+margin: 0px auto; padding-left: 5px;}
+
+.fa{color: white;}
